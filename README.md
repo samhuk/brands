@@ -1,6 +1,6 @@
 # BIFL and High Quality Brands (Mostly-UK Perspective)
 
-The aim of this document is to list out the brands that are known to be BIFL or otherwise high quality from a mostly-UK perspective. Feel free to submit pull requests to add or remove entries given suitable evidence of BIFL or quality status.
+The aim of this document is to list out the brands that are known to be BIFL or otherwise high quality from a mostly-UK perspective. Feel free to submit pull requests to add or remove entries. The hope is to take out the time-consuming research when looking for products that aren't the usual absolute garbage of the modern era.
 
 ## Apparel
 
