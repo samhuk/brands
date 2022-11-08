@@ -40,7 +40,7 @@ If this gains traction, I could convert this into a web app of some kind to allo
 
 ## Furniture
 
-* [IKEA](https://www.ikea.com/gb/en/) - BIFL tables. Only their flagships are BIFL, e.g. £280 table.
+* [IKEA](https://www.ikea.com/gb/en/) - BIFL desks. Only their flagships are BIFL, i.e. >£280.
 * [HermanMiller](https://www.hermanmiller.com/en_gb/) - BIFL office chairs.
 * [The White Company](https://www.thewhitecompany.com/uk/) - BIFL and highest quality bed sheets. UK based. International shipping (expensive though). 
 
