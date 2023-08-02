@@ -15,7 +15,8 @@ If this gains traction, I could convert this into a web app of some kind to allo
 ### Shoes
 
 * [Danner](https://global.danner.com/) - BIFL boots. US based.
-* [ecco](https://gb.ecco.com/en-GB) - Trainers. Mid-range.
+* [Oliver Sweeney](https://www.oliversweeney.com/pages/shoes-and-boots) - BIFL trainers.
+* [ecco](https://gb.ecco.com/en-GB) - Slightly BIFL trainers. Mid-range.
 
 ### Socks
 
