@@ -65,3 +65,9 @@ If this gains traction, I could convert this into a web app of some kind to allo
 * [audio-technica](https://www.audio-technica.com/en-gb/) - BIFL Microphones.
 * [Thrustmaster](https://www.thrustmaster.com/en-us/homepage/) - Mostly-BIFL Joysticks, steering wheels, etc.
 * [Focusrite](https://focusrite.com/en) - BIFL audio interfaces.
+
+## Travelling
+
+### Suitcases & Storage
+
+* [Samsonite](https://www.samsonite.co.uk/) - BIFL suitcases.
