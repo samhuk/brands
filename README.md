@@ -33,6 +33,7 @@ If this gains traction, I could convert this into a web app of some kind to allo
 * [Sharp](https://www.sharpconsumer.uk/home-appliances/mg01us) - Dumb microwaves with only power and time dials.
 * [Zojirushi](https://www.zojirushi.com/) - BIFL rice cookers. Best brand in the world. Very difficult to get in UK.
 * [Gaggia UK Seller](https://www.gaggiadirect.co.uk) - BIFL Coffee machines. Classic Evo recommended.
+* [Vitamix](https://www.vitamixuk.com/) - BIFL blenders.
 
 ### Crockery & Tools
 
